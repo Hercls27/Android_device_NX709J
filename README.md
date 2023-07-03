@@ -13,7 +13,7 @@
 * Orangefox/TWRP now boots, decryption is working fine but aren't tested in GSI.
 * It was tested in a device running RMOS 6.0 (NX709S) firmware, but it should work in RMOS 5.5 too.
 * Do not flash OTA firmware yet, it is not well-tested, could brick your device.
-* Red Magic 7s Pro is Virtual A/B with dedicated Recovery Partition, no need to `boot` it like other A/Bs, just `flash` it.
+* Red Magic 7 Pro is Virtual A/B with dedicated Recovery Partition, no need to `boot` it like other A/Bs, just `flash` it.
 
 ### Working Features
 * Internal Storage
